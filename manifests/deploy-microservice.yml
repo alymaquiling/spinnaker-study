@@ -60,7 +60,7 @@ spec:
     rules:
         -   http:
                 paths:
-                    -   path: /alyssa-solo(/|$)(.*)
+                    -   path: /alyssa-solo-microservice(/|$)(.*)
                         backend:
                             serviceName: alyssa-solo-microservice-service
                             servicePort: 30201
