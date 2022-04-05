@@ -64,4 +64,3 @@ spec:
                         backend:
                             serviceName: alyssa-solo-microservice-service
                             servicePort: 30201
-
